@@ -27,7 +27,7 @@ let time = new Date();
 let day = time.getDay();
 let hours = time.getHours();
 let minutes = time.getMinutes();
-let today = document.querySelector("#time");
+let today = document.querySelector(".time");
 if (day === 0) {
   day = "Sunday";
 }
