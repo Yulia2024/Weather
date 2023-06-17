@@ -16,6 +16,8 @@ div {
   font-family: sans-serif;
   font-size: 50px;
   margin-bottom: 35px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
 }
 
 h1 {
