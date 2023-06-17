@@ -64,7 +64,7 @@ p {
 
 .submit {
   margin-left: 10px;
-  background-color: blue;
+  background-color: greenyellow;
   color: white;
   border-radius: 10px;
   padding: 10px 20px;
@@ -72,7 +72,7 @@ p {
   transition: all 200ms ease-in;
 }
 .submit:hover {
-  color: blue;
+  color: greenyellow;
   background: white;
 }
 #geo {
