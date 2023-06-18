@@ -100,3 +100,8 @@ p {
   font-weight: 600;
   text-align: center;
 }
+footer {
+  text-align: center;
+  font-weight: 400;
+  font-family: sans-serif;
+}
