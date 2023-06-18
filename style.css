@@ -100,8 +100,9 @@ p {
   font-weight: 600;
   text-align: center;
 }
-.link {
-  text-align: center;
+footer {
+  display: block;
+  margin: 0 auto;
   font-weight: 400;
   font-family: sans-serif;
   text-decoration: none;
