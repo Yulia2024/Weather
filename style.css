@@ -101,6 +101,7 @@ p {
   text-align: center;
 }
 .link {
+  text-align: center;
   display: block;
   margin: 0 auto;
   font-weight: 400;
